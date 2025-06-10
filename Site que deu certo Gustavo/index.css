@@ -1,0 +1,39 @@
+body{
+    color: rgb(57, 56, 56);
+    background-color: rgb(178, 178, 178);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  align-items: center;
+  padding: 16px;
+}
+
+a{
+    color: rgb(56, 56, 56);
+    text-decoration: none;
+}
+
+img{
+   width: 150px;
+   height: 200px;
+   border-radius: 30%;
+   border: 5px solid rgb(56,56,56);
+}
+
+.center{
+    text-align: center;
+}
+
+nav a:hover{
+  color:gray
+}
+
+main{
+    color: rgb(56,56,56);
+    font-family: Arial, Helvetica, sans-serif
+}
+
